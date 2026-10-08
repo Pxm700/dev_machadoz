@@ -2,7 +2,7 @@
 const CONFIG = {
   email: "pedro300606henrique@gmail.com",
   github: "https://github.com/Pxm700",
-  linkedin: "https://www.linkedin.com/in/pedro-henrique-machado-freitas/",
+  linkedin: "https://www.linkedin.com/in/pedro-machadofreitas/",
   whatsapp: "5511942992879"
 };
 
